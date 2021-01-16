@@ -1,6 +1,6 @@
 # Properties
 
-The `UI Dropdown` component comes with quite a few properties that allow for easy customisation.
+The `UI Toggle` component comes with quite a few properties that allow for easy customisation.
 
 ![](images/3.png)
 
