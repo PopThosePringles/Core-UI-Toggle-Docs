@@ -1,16 +1,3 @@
-# Example
-
-The `UI Toggle` component comes with a working example that shows you a simple setup along with an example of how to use the events system.
-
-Drag and drop the `UI Toggle Example` template into your hierarchy.  This example already has a client context and UI container setup.
-
-Enter play mode and test the 3 toggles.  Toggle 3 is disabled and only enabled when toggle 2 is enabled.
-
-![](images/preview.png)
-
-## Example Script
-
-```lua
 -- Text UI components to show what was checked
 
 local text_box = script:GetCustomProperty("text_box"):WaitForObject()
@@ -58,4 +45,3 @@ Game.playerJoinedEvent:Connect(function()
 	UI.SetCursorVisible(true)
 	UI.SetCanCursorInteractWithUI(true)
 end)
-```
