@@ -2,4 +2,6 @@
 
 Documentation for the UI Toggle component in Community Content.
 
-https://popthosepringles.github.io/Core-UI-Toggle-Docs/
+<https://popthosepringles.github.io/Core-UI-Toggle-Docs/>
+
+![Image](image.png)
